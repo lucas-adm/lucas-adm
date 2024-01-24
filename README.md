@@ -18,7 +18,7 @@
 </h2>
 
 <div>
-  <img width="350px" align="right" src="https://i.imgur.com/aWPiG5B.png">
+  <img width="325px" align="right" src="https://i.imgur.com/aWPiG5B.png">
   
   ##### De Santa Rita do Sapucaí-MG, Brasil, Técnico em Desenvolvimentos de Sistemas e AlumniONE pela Oracle Next Education. Após meu primeiro `sysout("Hello World!")` fui iniciado na tropa do cafézinho e dominei algumas das artes do ***Spring Boot***, atualmente estou    expandindo meu domínio também para o Front-End.
   
