@@ -14,7 +14,7 @@
 
 <h2>
   <img align="left" width="30px" src="https://i.imgur.com/MSLqTVO.png" alt="Cruz da Ordem de Cristo">
-  <span>Full Stack Developer</span>
+  <span>Dev Full Stack</span>
 </h2>
 
 <div>
