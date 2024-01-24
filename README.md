@@ -8,8 +8,6 @@
 </div>
 -->
 
-<br>
-
 <h2>
   <img align="left" width="30px" src="https://i.imgur.com/MSLqTVO.png">
   <span>Full Stack Developer</span>
