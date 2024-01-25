@@ -1,5 +1,5 @@
 <br/>
-<!-- 
+
 <picture> 
       <source
         srcset="https://readme-typing-svg.herokuapp.com/?color=fff&size=33&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Sou+Lucas+A.+de+Moraes+👋"
@@ -11,7 +11,7 @@
       />
     <img src="https://readme-typing-svg.herokuapp.com/" alt="Typing SVG">
 </picture>
--->
+
 <h2>
   <img align="left" width="30px" src="https://i.imgur.com/MSLqTVO.png" alt="Cruz da Ordem de Cristo">
   <span>Dev Full Stack</span>
