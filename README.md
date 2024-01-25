@@ -60,11 +60,11 @@
 <div align="center">
   <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide=issues&line_height=24&text_color=fff&icon_color=fff&ring_color=fff&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
+        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide=issues&line_height=24&title_color=fff&text_color=fff&icon_color=fff&ring_color=fff&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide=issues&line_height=24&text_color=000&icon_color=000&ring_color=000&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
+        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide=issues&line_height=24&title_color=000&text_color=000&icon_color=000&ring_color=000&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
     <img src="https://github-readme-stats.vercel.app/api?username=lucas-adm" alt="Github Stats"/>
