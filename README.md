@@ -60,11 +60,11 @@
 <div align="center">
   <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&card_width=350&rank_icon=github&show_icons=true&hide_title=true&hide=issues&line_height=25&text_color=fff&icon_color=fff&ring_color=fff&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
+        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide=issues&line_height=24&text_color=fff&icon_color=fff&ring_color=fff&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&card_width=350&rank_icon=github&show_icons=true&hide_title=true&hide=issues&line_height=25&text_color=000&icon_color=000&ring_color=000&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
+        srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide=issues&line_height=24&text_color=000&icon_color=000&ring_color=000&theme=ambient_gradient&bg_color=00000000&locale=pt-br"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
     <img src="https://github-readme-stats.vercel.app/api?username=lucas-adm" alt="Github Stats"/>
@@ -72,13 +72,25 @@
   
   <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-adm&layout=compact&card_width=350&line_height=25&text_color=fff&title_color=fff&theme=ambient_gradient&bg_color=00000000&locale=pt-br&langs_count=4"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-adm&layout=compact&card_width=350&line_height=25&text_color=fff&title_color=fff&theme=ambient_gradient&bg_color=00000000&locale=pt-br&langs_count=6"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-adm&layout=compact&card_width=350&line_height=25&text_color=000&title_color=000&theme=ambient_gradient&bg_color=00000000&locale=pt-br&langs_count=4"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-adm&layout=compact&card_width=350&line_height=25&text_color=000&title_color=000&theme=ambient_gradient&bg_color=00000000&locale=pt-br&langs_count=6"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-adm" alt="Top Languages Stats"/>
   </picture>
 </div>
+
+<br>
+
+<details>
+<summary></summary>
+
+- Inspired by <a href="https://github.com/elidianaandrade/elidianaandrade">@elidianaandrade</a>
+- Typing effect by <a href="https://github.com/DenverCoder1/readme-typing-svg">@DenverCoder1</a>
+- Badges by <a href="https://shields.io/">shields.io</a><br>
+- GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+- Image by <a href="https://storyset.com">storyset</a>
+</details>
