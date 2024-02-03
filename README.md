@@ -88,7 +88,7 @@
 <details>
 <summary></summary>
 
-- Inspired by <a href="https://github.com/elidianaandrade/elidianaandrade">@elidianaandrade</a>
+- README inspired by <a href="https://github.com/elidianaandrade/elidianaandrade">@elidianaandrade</a>
 - Typing effect by <a href="https://github.com/DenverCoder1/readme-typing-svg">@DenverCoder1</a>
 - Badges by <a href="https://shields.io/">shields.io</a><br>
 - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
