@@ -33,7 +33,7 @@
 </div>
 
 <a href="https://web.whatsapp.com/send/?phone=5535998963318"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=%2325D366&labelColor=black&color=black"></a>
-<a href="mailto:vintesetelucas@gmail.com"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black&color=black"></a>
+<a href="discordapp.com/users/loolcas"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=black&color=black"></a>
 <a href="https://www.linkedin.com/in/lucas-admoraes/"><img align="right" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black&color=black"></a>
 
 <br/>
