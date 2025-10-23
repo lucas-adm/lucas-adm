@@ -1,6 +1,6 @@
-<h1 align="center">Hail, I'm Lucas Aguiar de Moraes 👋🏼</h1>
+# Hail, I'm Lucas Aguiar de Moraes 👋🏼
 
-<p align="center">
+<p>
   <em>Full Stack Web Dev • Tech Enthusiast</em>
 </p>
 
@@ -10,16 +10,12 @@
 - ✨ Founder & developer at <a href="https://notehub.com.br">@NoteHub</a>
 - 🎯 Focused on mastering mobile development
 
-<br/>
-
 <h3>
   <strong>Find me at:&nbsp;&nbsp;</strong>
   <a href="https://devlucas.website"><img alt="Website" style="height:22px" src="https://img.shields.io/badge/Website-white?style=flat-square&logo=brave&logoColor=white&labelColor=ff2101&color=ff2101"></a>
   <a href="https://www.linkedin.com/in/lucas-admoraes/"><img alt="LinkedIn" style="height:22px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=invision&logoColor=white&labelColor=0A66C2&color=0A66C2"></a>
   <a href="mailto:vintesetelucas@gmail.com"><img alt="Email" style="height:22px" src="https://img.shields.io/badge/vintesetelucas@gmail.com-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=e84235&color=e84235"></a>
 </h3>
-
-<br/>
 
 <div align="center">
   <picture>
