@@ -12,9 +12,9 @@
 
 <h3>
   <strong>Find me at:&nbsp;&nbsp;</strong>
-  <a href="https://devlucas.website"><img alt="Website" style="height:22px" src="https://img.shields.io/badge/Website-white?style=flat-square&logo=brave&logoColor=white&labelColor=ff2101&color=ff2101"></a>
-  <a href="https://www.linkedin.com/in/lucas-admoraes/"><img alt="LinkedIn" style="height:22px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=invision&logoColor=white&labelColor=0A66C2&color=0A66C2"></a>
-  <a href="mailto:vintesetelucas@gmail.com"><img alt="Email" style="height:22px" src="https://img.shields.io/badge/vintesetelucas@gmail.com-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=e84235&color=e84235"></a>
+  <a href="https://www.linkedin.com/in/lucas-admoraes/"><img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=invision&logoColor=white&labelColor=0A66C2&color=0A66C2"></a>
+  <a href="https://devlucas.website"><img alt="Website" style="height:24px" src="https://img.shields.io/badge/Website-white?style=flat-square&logo=brave&logoColor=white&labelColor=ff2101&color=ff2101"></a>
+  <a href="mailto:vintesetelucas@gmail.com"><img alt="Email" style="height:24px" src="https://img.shields.io/badge/Gmail-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=e84235&color=e84235"></a>
 </h3>
 
 <div align="center">
