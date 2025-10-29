@@ -1,4 +1,4 @@
-# Hail, I'm Lucas Aguiar de Moraes 👋🏼
+# Hail, I'm Lucas Aguiar de Moraes
 
 <p>
   <em>Full Stack Web Dev • Tech Enthusiast</em>
@@ -6,18 +6,19 @@
 
 ### About me
 
-- 🎂 23 yo
-- ✨ Founder & developer at <a href="https://notehub.com.br">@NoteHub</a>
-- 🎯 Focused on mastering mobile development
+- 23 yo
+- Founder & developer at <a href="https://notehub.com.br">@NoteHub</a>
+- Focused on mastering mobile development
 
-<h3>
-  <strong>Find me at:&nbsp;&nbsp;</strong>
-  <a href="https://www.linkedin.com/in/lucas-admoraes/"><img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=invision&logoColor=white&labelColor=0A66C2&color=0A66C2"></a>
-  <a href="https://devlucas.website"><img alt="Website" style="height:24px" src="https://img.shields.io/badge/Website-white?style=flat-square&logo=brave&logoColor=white&labelColor=ff2101&color=ff2101"></a>
-  <a href="mailto:vintesetelucas@gmail.com"><img alt="Email" style="height:24px" src="https://img.shields.io/badge/Gmail-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=e84235&color=e84235"></a>
-</h3>
+<br/>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/lucas-admoraes/"><img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=invision&logoColor=white&labelColor=black&color=black"></a>
+<a href="https://devlucas.website"><img alt="Website" style="height:24px" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=brave&logoColor=white&labelColor=black&color=black"></a>
+<a href="mailto:vintesetelucas@gmail.com"><img alt="Email" style="height:24px" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=black&color=black"></a>
+
+<br/>
+
+<div>
   <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=lucas-adm&rank_icon=github&show_icons=true&hide_border=true&hide=stars&line_height=24&title_color=fff&text_color=fff&icon_color=fff&ring_color=fff&theme=ambient_gradient&bg_color=00000000"
@@ -41,7 +42,3 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-adm" alt="Top Languages Stats"/>
   </picture>
 </div>
-
-<br/>
-
-<p align="center"><i>Numbers don’t lie — but they don’t tell the whole story either.</i></p>
