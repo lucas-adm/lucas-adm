@@ -12,11 +12,49 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lucas-admoraes/"><img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=invision&logoColor=white&labelColor=black&color=black"></a>
-<a href="https://devlucas.website"><img alt="Website" style="height:24px" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=brave&logoColor=white&labelColor=black&color=black"></a>
-<a href="mailto:vintesetelucas@gmail.com"><img alt="Email" style="height:24px" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=black&color=black"></a>
+<p>
+  <a href="https://www.linkedin.com/in/lucas-admoraes" style="text-decoration:none;">
+    <picture>
+      <source
+          srcset="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=invision&logoColor=black&labelColor=white&color=white"
+          media="(prefers-color-scheme: dark)"
+      />
+      <source
+          srcset="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=invision&logoColor=white&labelColor=black&color=black"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=invision&logoColor=white&labelColor=black&color=black">
+    </picture>
+</a>
+  <a href="https://devlucas.website" style="text-decoration:none;">
+    <picture>
+      <source
+          srcset="https://img.shields.io/badge/Website-white?style=flat-square&logo=brave&logoColor=black&labelColor=white&color=white"
+          media="(prefers-color-scheme: dark)"
+      />
+      <source
+          srcset="https://img.shields.io/badge/Website-black?style=flat-square&logo=brave&logoColor=white&labelColor=black&color=black"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=brave&logoColor=white&labelColor=black&color=black">
+    </picture>
+  </a>
+  <a href="mailto:vintesetelucas@gmail.com" style="text-decoration:none;">
+    <picture>
+      <source
+          srcset="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=black&labelColor=white&color=white"
+          media="(prefers-color-scheme: dark)"
+      />
+      <source
+          srcset="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=black&color=black"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img alt="LinkedIn" style="height:24px" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=black&color=black">
+    </picture>
+  </a>
+</p>
 
-<br/>
+<br>
 
 <div>
   <picture>
